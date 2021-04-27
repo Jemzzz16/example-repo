@@ -8,4 +8,8 @@ CREATE BRANCH
 
 NAVIGATE ONTO BRANCH
 - git checkout 'name-of-branch' -> just move onto branch
-NAVIGATION
+
+PUSHING A BRANCH
+- git push origin name-of-branch -> push branch thats changed to remote from local
+- origin -> remote -> github
+- name-of-branch -> branch with the changes we want to add
