@@ -21,3 +21,5 @@ adding new features
 - more stuff to do
 - more stuff to do
 - Even more stuff to do!
+
+Bridget's username: bridgetjpereira
