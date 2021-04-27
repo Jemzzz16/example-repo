@@ -13,3 +13,11 @@ PUSHING A BRANCH
 - git push origin name-of-branch -> push branch thats changed to remote from local
 - origin -> remote -> github
 - name-of-branch -> branch with the changes we want to add
+
+# my new feautres
+
+adding new features 
+
+- more stuff to do
+- more stuff to do
+- Even more stuff to do!
